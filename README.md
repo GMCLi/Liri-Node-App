@@ -1,5 +1,7 @@
 # Liri-Node-App
 
+**Before use, install packages *npm install***
+
 This project was to create an app that can be brought up with the terminal in order to perform a number of functions.
     - concert-this *artist*
         -Allows the user to search an artist and have the following information return
